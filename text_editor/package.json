@@ -1,0 +1,9 @@
+{
+  "name": "testerapp",
+  "version": "1.0.0",
+  "description": "a tiny tester",
+  "main": "./html/index.html",
+  "window": {
+    "toolbar": false
+  }
+}
